@@ -1,0 +1,43 @@
+body {
+    background-color: #f0f8ff;
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+.container {
+    margin-top: 50px;
+}
+
+#word {
+    font-size: 36px;
+    letter-spacing: 5px;
+    color: #333;
+}
+
+#hangman {
+    margin: 20px;
+    font-size: 48px;
+}
+
+input {
+    padding: 10px;
+    font-size: 20px;
+}
+
+button {
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #45a049;
+}
+
+#message {
+    margin-top: 20px;
+    font-size: 20px;
+    color: #ff0000;
+}
